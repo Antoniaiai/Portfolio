@@ -1,0 +1,50 @@
+*{
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    font-family: garamond;
+}
+
+ul{
+
+  margin-left: 25em;
+  margin-right: 25em;
+}
+
+li{
+    list-style-type: none;
+    display: inline-block;
+    padding: 0.5em;
+
+}
+body{
+    background-color: #faf8f5;
+}
+
+p{
+    margin: 3em 42em;
+}
+
+h2{
+    font-style: italic;
+    border-bottom: 3px solid #F9F1DC;
+    font-size: 3em;
+}
+
+footer{
+    background-color: white;
+    padding: 3em;
+    
+}
+
+figure{
+    padding: 2em;
+}
+
+figure img{
+    border-bottom: 2px solid #F5BD26;
+}
+
+ul{
+    padding-bottom:  2em;;
+}
